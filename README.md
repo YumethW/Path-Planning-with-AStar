@@ -19,13 +19,6 @@ The project demonstrates a "Sense-Plan-Act" pipeline for automotive engineering,
 * **Scenario Setup:** Grid preparation representing an environment with static obstacles.
 * **Results & Analysis:** Performance evaluation based on optimality, efficiency, and completeness.
 
-## How It Works
-
-1. Have a conversation with the assistant on the interview you want to prepare for
-2. Speak naturally with the AI interviewer
-3. Start an AI simulated interview
-4. Receive instant, detailed feedback on your performance
-
 ## Getting Started
 
 ### Prerequisites
