@@ -9,7 +9,7 @@ The project demonstrates a "Sense-Plan-Act" pipeline for automotive engineering,
 ## Key Features
 
 - **Perception Modeling:** Uses a 2D NumPy array to represent an occupancy grid (0 for free space, 1 for obstacles).
-- **A* Implementation:** Utilizes a priority queue (`heapq`) for efficient search and an admissible Euclidean heuristic.
+- **A\* Implementation:** Utilizes a priority queue (`heapq`) for efficient search and an admissible Euclidean heuristic.
 - **Visualization:** Integrated `matplotlib` functions to render the grid-map, obstacles, and calculated trajectory.
 - **Verification:** An automated testing suite to validate path optimality and obstacle avoidance.
 
